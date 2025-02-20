@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=5V Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=C21-2
+Removed Pin From Net: NetName=DBTX Pin=U1-16
+Added Pin To Net: NetName=DBTX Pin=CN1-5
+Added Pin To Net: NetName=DBRX Pin=CN1-6
+Added Pin To Net: NetName=DBTX Pin=U1-5
+Added Pin To Net: NetName=DBRX Pin=U1-6
+Added Pin To Net: NetName=UART2_TX Pin=U1-16
+Added Net: Name=UART2_TX

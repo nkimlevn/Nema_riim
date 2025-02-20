@@ -1,9 +1,15 @@
 Protel Design System Design Rule Check
 PCB File : D:\1.HomeProject\1.Hardware\2024\Nema_design_riim_ony\3.NEMA_RIIM\NEMA_RIIM.PcbDoc
-Date     : 12/26/2024
-Time     : 5:04:46 PM
+Date     : 2/10/2025
+Time     : 6:15:45 PM
+
+Processing Rule : Clearance Constraint (Gap=12mil) (InNamedPolygon('NONET_L-01_P-001') Or InNamedPolygon('NONET_L-01_P-001')),(All)
+Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('NONET_L-01_P-001') Or InNamedPolygon('NONET_L-01_P-001')),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -33,4 +39,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
